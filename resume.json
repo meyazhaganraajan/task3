@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Meyazhagan Raajan A",
+    "label": "Web developer",
+    "email": "abc@gmail.com",
+    "phone": "9999999999",
+    "summary": "JSON resume task - Full stack web developer",
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  "Profile": [
+    {
+      "Profile": "To work in a challenging and creating environment where I can utilize my knowledge, skills and education towards achievement of personal and organizational goal"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "studyType": "Bachelor",
+      "startDate": "2017",
+      "endDate": "2020",
+      "percentage": "70",
+      "courses": "degreename"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Full stack developer",
+      "date": "2023-01-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootsratp",
+        "React",
+        "node",
+        "MonogoDB",
+        "AWS",
+        "Ds&algo",
+        "mysql",
+        "redux",
+        "Npm",
+        "vscode"
+      ]
+    }
+  ],
+  "Corporate skills": [
+    {
+      "Corporate skills": ["best team player", "good team lead"]
+    }
+  ],
+  "languages": [
+    {
+      "language": ["English", "Tamil"]
+    }
+  ],
+  "other details": [
+    {
+      "dateofbirth": "04-May-199*",
+      "gender": "male",
+      "relationshipstatus": "unmarried",
+      "bloodgroup": "B+ve"
+    }
+  ],
+  "Declaration": [
+    {
+      "Declaration": "I solemnly declare that the above said details are true to my best of knowledge and belief."
+    }
+  ],
+  "Signature": [
+    {
+      "name": "Meyazhagan Raajan A"
+    }
+  ]
+}
